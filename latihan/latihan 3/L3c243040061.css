@@ -1,0 +1,33 @@
+body {
+  background-color: aqua;
+  font-style: Georgia;
+}
+#heading1 {
+  font-family: "Comic Sans MS";
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+#heading4 {
+  text-align: right;
+  font-style: italic;
+}
+#sandhika {
+  color: white;
+}
+#sandhika:hover {
+  color: red;
+}
+#text {
+  text-align: center;
+  color: orange;
+}
+#text2 {
+  text-align: right;
+}
+#t {
+  text-decoration: none;
+}
+#t:hover {
+  text-decoration: underline;
+}

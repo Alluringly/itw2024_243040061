@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+  font-style: Georgia;
+}
+#heading1 {
+  font-family: "Comic Sans MS";
+  font-size: 60px;
+  color: darkblue;
+}
+#heading4 {
+  text-align: right;
+  font-style: italic;
+}
+#text {
+  text-align: justify;
+}
+#text2 {
+  text-align: justify;
+}
