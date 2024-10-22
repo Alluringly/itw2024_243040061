@@ -9,6 +9,7 @@ body {
   text-align: center;
 }
 #heading4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
   text-align: right;
   font-style: italic;
 }
@@ -29,5 +30,6 @@ body {
   text-decoration: none;
 }
 #t:hover {
-  text-decoration: underline;
+  color: white;
+  background-color: blue;
 }
