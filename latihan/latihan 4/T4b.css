@@ -1,0 +1,110 @@
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Style */
+
+body {
+  font-family: "Comic Sans MS";
+  background-color: whitesmoke;
+  color: black;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: #fff;
+}
+
+.header {
+  padding: 20px;
+  padding-bottom: 10px;
+}
+
+.header .judul {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.header ul li {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.header a {
+  background-color: none;
+  color: gold;
+  padding: 3px;
+  text-decoration: none;
+}
+
+.hero {
+  height: 500px;
+  background-image: url(7.jpg);
+  background-size: cover;
+  background-position: 0 -100px;
+  border-bottom: 10px solid gold;
+  border-top: 10px solid gold;
+}
+
+.content {
+  padding: 20px;
+  text-align: justify;
+}
+
+.content h2 {
+  font-size: 28px;
+  font-weight: -5px;
+}
+
+.content .penulis {
+  font-size: 11px;
+  margin-top: -5px;
+}
+
+.content .penulis a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.content .p {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: gold;
+}
+.footer .copy {
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.hero1 {
+  background-image: url("10.jpg");
+  height: 450px;
+  width: 400;
+  background-size: cover;
+  margin: auto;
+}
