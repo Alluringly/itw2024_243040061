@@ -146,6 +146,9 @@ body {
   opacity: 0;
   cursor: pointer;
   z-index: 2;
+}
+
+
 
 .menu-toggle span {
   display: block;
